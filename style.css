@@ -1,0 +1,91 @@
+*{box-sizing: border-box;
+margin: 0;
+text-align: center;}
+div{ text-align: left;}
+
+table{ width: 90%;
+height: 100vh;
+margin: auto;}
+
+td{width: 5%;
+height: 8vh;}
+
+.border{border: solid;
+text-align:center;}
+
+h2{text-align: center;}
+.nao{background-color: yellowgreen;}
+
+.alcalinos{background-color: orange;}
+
+.terroso{background-color: yellow;}
+
+.semi{background-color: darkcyan;}
+
+.halo{background-color: aquamarine;}
+
+.nobre{background-color: royalblue;}
+
+.outros{background-color: cadetblue;}
+
+.trans{background-color: darksalmon;}
+
+.lant{background-color: lightblue;}
+
+.act{background-color: orchid;}
+
+.l-naometais{background-color: yellowgreen;
+width: 20px;
+height: 20px;
+margin-left: 20px;}
+
+.l-nobre{background-color: royalblue;
+    width: 20px;
+    height: 20px;
+    margin-left: 20px;}
+
+.l-alcalinos{background-color: orange;
+        width: 20px;
+        height: 20px;
+        margin-left: 20px;}
+        
+.l-terroso{background-color: yellow;
+            width: 20px;
+            height: 20px;
+            margin-left: 20px;}
+
+.l-outros{background-color: cadetblue;
+                width: 20px;
+                height: 20px;
+                margin-left: 20px;}
+
+.l-semi{background-color: darkcyan;
+                    width: 20px;
+                    height: 20px;
+                    margin-left: 20px;}
+
+.l-act{background-color: orchid;
+                        width: 20px;
+                        height: 20px;
+                        margin-left: 20px;}   
+                        
+.l-lant{background-color: lightblue;
+                            width: 20px;
+                            height: 20px;
+                            margin-left: 20px;}
+
+.l-trans{background-color: darksalmon;
+                                width: 20px;
+                                height: 20px;
+                                margin-left: 20px;}
+
+.l-halo{background-color: aquamarine;
+                                    width: 20px;
+                                    height: 20px;
+                                    margin-left: 20px;}
+
+                                ul li{ display: inline-block;
+list-style-type: none;
+}
+ul{ padding: 0;}
+
